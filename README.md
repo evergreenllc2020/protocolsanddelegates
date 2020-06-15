@@ -1,2 +1,2 @@
 # protocolsanddelegates
-how protoxols and delgatess work in swift
+how protocols and delgatess eliminate UI Freezing in iOS applications built using Swift 
