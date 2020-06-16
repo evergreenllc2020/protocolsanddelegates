@@ -1,4 +1,4 @@
 # protocolsanddelegates
 how protocols and delgatess eliminate UI Freezing in iOS applications built using Swift 
 
-Introductory Video: https://youtu.be/qcTe1rtkD24
+[![Demo Protocols and Delegates alpha](https://j.gifs.com/oVB3oB.gif)](https://youtu.be/qcTe1rtkD24)
